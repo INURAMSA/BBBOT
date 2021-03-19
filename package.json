@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/INURAMSA/BBBOT/issues"
   },
-  "homepage": "https://github.com/INURAMSA/INURAMSA#readme",
+  "homepage": "https://github.com/INURAMSA/BBBOT#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "async": "^3.2.0",
