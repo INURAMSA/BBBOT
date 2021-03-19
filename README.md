@@ -3,6 +3,7 @@
 <p align='center'><img src="https://github.com/INURAMSA/INURAMSA/blob/9d21fc1eeb5ad1e959c3d880bb29c1dd8a267fd1/gambar/IMG_20210212_160947_184.jpg" width="100px">
 </p>
 <br>
+
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
@@ -51,7 +52,7 @@ Ket: Script ini gratis ye Jangan dijual_-
 * [`Youtube Admin`](https://youtube.com/c/ZXSAM)
 * [`Instagram Admin`](https://instagram.com/inuramsa)
 * [`WhatsApp Admin `](https://wa.me/+6283806256473)
-* [`Facebook `](https://m.facebook.com/nuramsa.4)
+* [`Facebook Admin `](https://m.facebook.com/nuramsa.4)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`ALLAH SWT`]
