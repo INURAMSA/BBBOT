@@ -49,7 +49,7 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/ZXSAM)
+* [`Youtube Admin`](https://youtube.com/channel/UCo-X2L6tomlBHAnM90EcT7w)
 * [`Instagram Admin`](https://instagram.com/inuramsa)
 * [`WhatsApp Admin `](https://wa.me/+6283806256473)
 * [`Facebook Admin `](https://m.facebook.com/nuramsa.4)
