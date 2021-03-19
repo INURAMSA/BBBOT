@@ -1,10 +1,8 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm INURAMSA
 <p align="center">
-<p align='center'><a href="https://instagram.com/inuramsa"><img height="200" src="https://github.com/inuramsa/inuramsa/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><img src="https://github.com/INURAMSA/INURAMSA/blob/9d21fc1eeb5ad1e959c3d880bb29c1dd8a267fd1/gambar/IMG_20210212_160947_184.jpg" width="100px">
 </p>
 <br>
-
-
 
 
 ### WARNING
@@ -36,8 +34,8 @@ Siapin alat dan bahannya.
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
-> cd babybot
+> git clone https://github.com/INURAMSA/BBBOT
+> cd BBBOT
 > bash install.sh
 > npm start
 > SCAN DAH BRO MHEHE EZ KAN:V
@@ -46,8 +44,8 @@ Siapin alat dan bahannya.
 
 Ket: Script ini gratis ye Jangan dijual_-
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
+## Bahan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+* [`Link`](xnxx.com)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
