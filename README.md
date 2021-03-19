@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm INURAMSA
 <p align="center">
 <p align='center'><a href="https://instagram.com/inuramsa"><img height="200" src="https://github.com/inuramsa/inuramsa/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 </p>
